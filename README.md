@@ -13,6 +13,8 @@ The conventional Gilbert cell mixer shown in Figure 3 consists of three stages s
 The mixing stage is acting in triode region that performs switching by LO signal.    The conversion gain ( ) expressed in Equation (2) is proportional to the transconductance of the transistors.
  
  * RF Mixer Circuit
+ 
+ ![Model](I:\sairam\Sairam\IITHakathon\RFMixer.png)
  * Schematic Diagram
  * Primewave Setup
  * Testbench Waveform
